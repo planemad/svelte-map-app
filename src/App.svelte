@@ -1,8 +1,5 @@
 <link rel="stylesheet" href="node_modules/svelte-material-ui/bare.css" />
-<script lang="ts">
-	
-	import Button from '@smui/card';
-
+<script>
   export let name;
 </script>
 
