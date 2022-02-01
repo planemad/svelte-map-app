@@ -1,1 +1,3 @@
-main.svelte-1tky8bj{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-1tky8bj{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-1tky8bj{max-width:none}}
+#map-overlay.svelte-1kwuosg{position:absolute;margin:10px;z-index:1}#map.svelte-1kwuosg{height:100vh;width:100%;z-index:-1}/* Write your global styles here, in PostCSS syntax */
+
+div.svelte-1kuj9kb{width:100%;height:100%}div.svelte-1k1b3t4{padding:0}div.svelte-1pfu5h6{display:none}
